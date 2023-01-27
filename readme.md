@@ -21,6 +21,3 @@
 * **유니티**를 할 수 있습니다.
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> 
 
-  * [그동안 만든 게임][id]
-
- [id]: URL "https://play.google.com/store/apps/developer?id=GYG+House"
